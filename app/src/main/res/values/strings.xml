@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Barcelona Players</string>
+    <string name="players_name">Players</string>
+    <string name="description">Description</string>
+
+    <string-array name="data_name">
+        <item>Ansu Fati</item>
+        <item>Eric García</item>
+        <item>Frenkie de Jong</item>
+        <item>Iñaki Peña</item>
+        <item>Jordi Alba</item>
+        <item>Marc-André ter Stegen</item>
+        <item>Ousmane Dembélé</item>
+        <item>Ronald Araujo</item>
+        <item>Sergi Roberto</item>
+        <item>Sergio Busquets</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Anssumane Fati was born in Bissau 31 October 2002, the capital of Guinea Bissau. The striker moved to Seville at the age of six where he began in the youth team set up at Sevilla. In 2012, at the age of 10, he joined the FC Barcelona youth teams before making his debut with the first team in the 2019/20 season. </item>
+        <item>A player of massive potential, he is the classic Barça defender. He likes to play the ball out of with his feet, is extremely smart at reading his opponents’ moves and reads the game with instinctive precision. Eric Garcia returned to Barça in the summer of 2021 from Manchester City. He originally joined the Barça Escola in 2008 and resided at La Masia until 2017.</item>
+        <item>Frenkie de Jong was born in Arkel (Netherlands) on May 12, 1997. The Barça player started his career at Willem II in the Eredivise, the Dutch first division. In 2016 he signed for Ajax, where he gradually gained a place in the starting eleven. His versatility and his great vision allowed him to become the midfield organiser for the team from Amsterdam.</item>
+        <item>Iñaki Peña signed for Alicante CF when he was just five years old. In 2009, Villarreal CF was interested in the precocious player, where he began to stand out, especially in 2011, when he was chosen as the best goalkeeper of the Arona tournament. Barça had its eye on him and a year later he came to the Masia.</item>
+        <item>Jordi Alba signed for FC Barcelona on 5 July 2012 after the Club had reached an agreement with Valencia for his transfer. The Catalan defender was 23 when he joined the Club and was the first signing of the 2012/13 season.</item>
+        <item>Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.</item>
+        <item>At the end of 2014 he signed his first professional contract with French club Rennes. He made his Ligue 1 debut at just the age of 17 and he scored his first goal against Girondins. His progress attracted the attention of Borussia Dortmund and he signed for the Bundesliga club in the summer of 2016. Dembélé adapted quickly to German football, scoring 12 goals and providing 20 assists in his first season.</item>
+        <item>Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division.</item>
+        <item>When Sergi Roberto was 14 years old he traded the town of Reus for La Masia. The ex-Nàstic Tarragona midfielder improved year after year until he became a crucial player for Luis Enrique’s Barça B team.</item>
+        <item>Born in Sabadell, he joined the Barça youth system in the summer of 2005 from Jabac. That season, playing for the U19A side, he won three major trophies alongside the likes of Bojan Krkic, Giovani, Jeffren and Marc Crosas. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ansu_fati</item>
+        <item>@drawable/eric_garcia</item>
+        <item>@drawable/frenkie_de_jong</item>
+        <item>@drawable/inaki_pena</item>
+        <item>@drawable/jordi_alba</item>
+        <item>@drawable/marc_andre_ter_stegen</item>
+        <item>@drawable/ousmane_dembele</item>
+        <item>@drawable/ronald_araujo</item>
+        <item>@drawable/sergi_roberto</item>
+        <item>@drawable/sergio_busquets</item>s
+    </integer-array>
+
+    <string-array name="content_text">
+        <item>Fati (31 October 2002) was born in Bissau, the capital of Guinea Bissau. The striker moved to Seville at the age of six where he began in the youth team set up at Sevilla. In 2012, at the age of 10, he joined the FC Barcelona youth teams before making his debut with the first team in the 2019/20 season.\n\nThe records have continued as on 17 September 2019, at 16 years and 321 days, Ansu Fati became the youngest player in Barça history to play in the Champions League when he started the game against Borussia Dortmund in the Signal Iduna Park.</item>
+        <item>A player of massive potential, he is the classic Barça defender. He likes to play the ball out of with his feet, is extremely smart at reading his opponents’ moves and reads the game with instinctive precision. Eric Garcia returned to Barça in the summer of 2021 from Manchester City. He originally joined the Barça Escola in 2008 and resided at La Masia until 2017. \n\n
+        Viewed as one of the finest young defenders in the world, he also played for Spain at U16, U17 and U21 level, and when Luis Enrique picked him for the senior team, he became the first Barça Escola graduate to ever do so. </item>
+        <item>Frenkie de Jong was born in Arkel (Netherlands) on May 12, 1997. The Barça player started his career at Willem II in the Eredivise, the Dutch first division. In 2016 he signed for Ajax, where he gradually gained a place in the starting eleven. His versatility and his great vision allowed him to become the midfield organiser for the team from Amsterdam. \n\n
+        With Ajax, the versatile midfielder on won the Dutch league title and the Dutch Cup as well helping the Amsterdam club to the semi finals of the Champions League in the 2018/19 season</item>
+        <item>Iñaki Peña signed for Alicante CF when he was just five years old. In 2009, Villarreal CF was interested in the precocious player, where he began to stand out, especially in 2011, when he was chosen as the best goalkeeper of the Arona tournament. Barça had its eye on him and a year later he came to the Masia. \n\n
+        In the winter of the 2021/22 season the keeper left for Galatasaray on loan before returning in the summer of 2022 to the club. In January 2023 he was officially registered as a first team player. </item>
+        <item>Jordi Alba signed for FC Barcelona on 5 July 2012 after the Club had reached an agreement with Valencia for his transfer. The Catalan defender was 23 when he joined the Club and was the first signing of the 2012/13 season. \n\n
+        Jordi Alba i Ramos was born in Hospitalet de Llobregat on 21 March 1989. After joining Barça at the age of 10, he proceeded through the various academy teams, alongside players such as Bojan Krkic, Fran Mérida and Dos Santos.</item>
+        <item>Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers. \n\n
+        Consistency is one of the key characteristics of the German keeper and in the 2021/22 season he surpassed 300 games for Barça, taking him into the top 5 on the all time appearance list for foreign players. </item>
+        <item>At the end of 2014 he signed his first professional contract with French club Rennes. He made his Ligue 1 debut at just the age of 17 and he scored his first goal against Girondins. His progress attracted the attention of Borussia Dortmund and he signed for the Bundesliga club in the summer of 2016. Dembélé adapted quickly to German football, scoring 12 goals and providing 20 assists in his first season. \n\n
+        He signed a five year deal with FC Barcelona in the summer of 2017. He made his Barça debut on 9 September in the league against Espanyol and celebrated by providing an assist. He scored his first goal as a blaugrana against Chelsea in the Champions League of that season. </item>
+        <item>Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division. \n\n
+        Araujo was part of the Uruguay squad for the Copa América in Brazil in 2021 and for the World Cup in Qatar where he was unable to make an appearance due to injury. </item>
+        <item>When Sergi Roberto was 14 years old he traded the town of Reus for La Masia. The ex-Nàstic Tarragona midfielder improved year after year until he became a crucial player for Luis Enrique’s Barça B team. \n\n
+        In his time with the Club the La Masia bred player has won 23 trophies with the first team. </item>
+        <item>Born in Sabadell, he joined the Barça youth system in the summer of 2005 from Jabac. That season, playing for the U19A side, he won three major trophies alongside the likes of Bojan Krkic, Giovani, Jeffren and Marc Crosas. \n\n
+        During the 2021/22 season, he surpassed Andrés Iniesta to become the third player with the most appearances in Barça history. </item>
+    </string-array>
+
+    <string-array name="content_goals">
+        <item>6 times</item>
+        <item>1 time</item>
+        <item>2 times</item>
+        <item>0 times</item>
+        <item>1 time</item>
+        <item>1 time</item>
+        <item>0 time</item>
+        <item>1 time</item>
+        <item>3 times</item>
+        <item>0 time</item>
+    </string-array>
+
+    <string-array name="content_appereances">
+        <item>996 Minutes</item>
+        <item>1056 Minutes</item>
+        <item>1886 minutes</item>
+        <item>210 minutes</item>
+        <item>1290 minutes</item>
+        <item>2460 minutes</item>
+        <item>1437 minutes</item>
+        <item>1420 minutes</item>
+        <item>860 minutes</item>
+        <item>1846 minutes</item>
+    </string-array>
+
+    <string-array name="content_wins">
+        <item>26 wins</item>
+        <item>13 wins</item>
+        <item>22 wins</item>
+        <item>3 wins</item>
+        <item>17 wins</item>
+        <item>24 wins</item>
+        <item>21 wins</item>
+        <item>15 wins</item>
+        <item>15 wins</item>
+        <item>21 wins</item>
+    </string-array>
+
+    <string-array name="brief_desc">
+        <item>Instinct, speed and skill. Ansu Fati is the chosen heir of our number 10</item>
+        <item>Centre back who excels at getting the ball out from the back and has an instinctive ability to read the game</item>
+        <item>His versatility, energy and great vision have allowed him to continue developing his skills in any midfield position</item>
+        <item>Iñaki Peña is a Barça-style goalkeeper: he reads the game well and can use his feet well</item>
+        <item>As quick as anyone, Jordi Alba is recognised as one of the most attacking left backs in modern football</item>
+        <item>A keeper with great reflexes and also excellent with the ball at his feet</item>
+        <item>The French winger is one of most exciting dribblers in football and thrives on troubling rival defences both for club and country</item>
+        <item>Uruguayan defender, strong in the air and capable with the ball at his feet</item>
+        <item>Sergi Roberto is one of the most versatile players in the squad and is known for his ability to get into the box</item>
+        <item>Sergio Busquets is probably the best defensive midfielder in the world. He stands out for his technical ability and his unsurpassed reading of the game</item>
+    </string-array>
+
+    <string-array name="dummy_value">
+        <item>10 Ansu Fati</item>
+        <item>24 Eric García</item>
+        <item>21 Frenkie de Jong</item>
+        <item>13 Iñaki Peña</item>
+        <item>18 Jordi Alba</item>
+        <item>1 Marc-André ter Stegen</item>
+        <item>7 Ousmane Dembélé</item>
+        <item>4 Ronald Araujo</item>
+        <item>20 Sergi Roberto</item>
+        <item>5 Sergio Busquets</item>
+    </string-array>
+    <string name="goals">Goals</string>
+    <string name="appereances">Barça Appearances</string>
+    <string name="wins">Wins</string>
+    <string name="konteks">konteks</string>
+    <string name="performa">Key Performance Status</string>
+    <string name="penampilan">penampilan</string>
+    <string name="gol">gol</string>
+    <string name="akurasi">akurasi</string>
+    <string name="share">Share</string>
+    <string name="about_me">About Me</string>
+    <string name="barcelona_players">Barcelona Players</string>
+    <string name="detail_players">Details Player</string>
+    <string name="jalan">Jl. Lumbu Tengah VII</string>
+    <string name="string_myadress">Address</string>
+    <string name="jalancomp">Jembatan 8, \nRawalumbu,\nBekasi, \n17116</string>
+    <string name="email">Email</string>
+    <string name="gmail_com">mumtaz.fasya@gmail.com</string>
+</resources>
